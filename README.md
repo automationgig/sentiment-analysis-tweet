@@ -49,7 +49,7 @@ streamlit run app.py
 - requirements.txt : pre-requiste libraries for the project
 - models/ : TFIDF vectoriser object and trained model (the vectorizer and model is created based on this file "Sentiment_Analysis_Tweet_LemmatizingWithPOS.ipynb")
 - data/ : source data
-- setup.sh : Setup file for Heroku.
+- setup.sh : Setup file for Heroku
 - Procfile : To trigger the app in Heroku.
 
 
